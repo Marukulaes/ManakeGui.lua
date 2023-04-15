@@ -8,7 +8,7 @@ local PresetColor = Color3.fromRGB(44, 120, 224)
 local CloseBind = Enum.KeyCode.RightControl
 
 local knixhub = Instance.new("ScreenGui")
-knixhub.Name = "NOOBHUB"
+knixhub.Name = "ManakeHub"
 knixhub.Parent = game.CoreGui
 knixhub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -1645,4 +1645,3 @@ function lib:Window(text, preset, closebind)
 	return tabhold
 end
 return lib
-
