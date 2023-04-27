@@ -33,8 +33,7 @@ local library = {
 		hoveredOptionBottom = Color3.fromRGB(45, 45, 45),
 		unhoveredOptionBottom = Color3.fromRGB(35, 35, 35),
 		tabText = Color3.fromRGB(185, 185, 185)
-	}
-
+	},
 	gui_parent = (function()
 		local x, c = pcall(function()
 			return game:GetService("CoreGui")
