@@ -6840,7 +6840,7 @@ function library:CreateWindow(options, ...)
 		end
 		if options.Credit ~= false then
 			daaata[1 + #daaata] = {"AddLabel", "__Designer.Label.Creator", detailssection, {
-				Text = "Library by X2Skun#7554"
+				Text = "Maruko#7932"
 			}}
 		elseif "Gee, thanks for your support." then
 		end
