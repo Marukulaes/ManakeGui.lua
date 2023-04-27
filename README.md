@@ -15,7 +15,7 @@ local library = {
 		easingDirection = Enum.EasingDirection.Out
 	},
 	colors = {
-		main = Color3.fromRGB(65, 7, 160),
+		main = Color3.fromRGB(255, 255, 255),
 		background = Color3.fromRGB(0, 0, 0),
 		outerBorder = Color3.fromRGB(75, 0, 146),
 		innerBorder = Color3.fromRGB(0, 0, 0),
@@ -23,7 +23,7 @@ local library = {
 		bottomGradient = Color3.fromRGB(0, 0, 0),
 		sectionBackground = Color3.fromRGB(0, 0, 0),
 		section = Color3.fromRGB(65, 7, 160),
-		otherElementText = Color3.fromRGB(0, 0, 0),
+		otherElementText = Color3.fromRGB(255, 255, 255),
 		elementText = Color3.fromRGB(255, 255, 255),
 		elementBorder = Color3.fromRGB(0, 0, 0),
 		selectedOption = Color3.fromRGB(55, 55, 55),
