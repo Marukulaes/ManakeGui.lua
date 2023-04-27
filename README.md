@@ -23,7 +23,7 @@ local library = {
 		bottomGradient = Color3.fromRGB(0, 0, 0),
 		sectionBackground = Color3.fromRGB(0, 0, 0),
 		section = Color3.fromRGB(65, 7, 160),
-		otherElementText = Color3.fromRGB(255, 255, 255),
+		otherElementText = Color3.fromRGB(0, 0, 0),
 		elementText = Color3.fromRGB(255, 255, 255),
 		elementBorder = Color3.fromRGB(0, 0, 0), -- เปลี่ยนเป็นสีขาว
 		selectedOption = Color3.fromRGB(55, 55, 55),
@@ -32,7 +32,7 @@ local library = {
 		unhoveredOptionTop = Color3.fromRGB(50, 50, 50),
 		hoveredOptionBottom = Color3.fromRGB(45, 45, 45),
 		unhoveredOptionBottom = Color3.fromRGB(35, 35, 35),
-		tabText = Color3.fromRGB(185, 185, 185)
+		tabText = Color3.fromRGB(255, 255, 255)
 	},
 	gui_parent = (function()
 		local x, c = pcall(function()
